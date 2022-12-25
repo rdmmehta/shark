@@ -52,13 +52,13 @@ social-network-links:
   email: "iam@ridh.im"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: iamrdm13
-  github: rdmmehta
+# github: rdmmehta
   twitter: rdmmehta
-  patreon: 
-  youtube: c
+# patreon: 
+  youtube: https://www.youtube.com/@sharkarena
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: rdmmehta
+   linkedin: rdmmehta
 #  xing: yourname
 #  stackoverflow: "yourname"
 #  snapchat: deanat78
